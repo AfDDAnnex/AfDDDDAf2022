@@ -80,15 +80,15 @@ BRA,Brazil,Brésil
 BRB,Barbados,Barbade
 BRN,Brunei Darussalam*,Brunei Darussalam*
 BTN,Bhutan,Bhoutan
-BWA,Botswana*,Botswana*
+BWA,Botswana,Botswana
 CAF,Central African Republic,République centrafricaine
 CAN,Canada,Canada
 CHE,Switzerland,Suisse
-CHL,Chile*,Chili*
+CHL,Chile,Chili
 CHN,China,Chine
 CIV,Côte d’Ivoire,Côte d’Ivoire
 CMR,Cameroon,Cameroun
-COD,DR Congo*,RD Congo*
+COD,DR Congo,RD Congo
 COG,Congo Republic*,République du Congo*
 COL,Colombia,Colombie
 COM,Comoros,Comores
@@ -116,7 +116,7 @@ FSM,Micronesia,Micronésie
 GAB,Gabon*,Gabon*
 GBR,United Kingdom,Royaume-Uni
 GEO,Georgia,Géorgie
-GHA,Ghana*,Ghana*
+GHA,Ghana,Ghana
 GIN,Guinea,Guinée
 GMB,Gambia,Gambie
 GNB,Guinea-Bissau,Guinée-Bissau
@@ -124,7 +124,7 @@ GNQ,Equatorial Guinea*,Guinée équatoriale*
 GRC,Greece,Grèce
 GRD,Grenada,Grenade
 GTM,Guatemala,Guatemala
-GUY,Guyana*,Guyana*
+GUY,Guyana,Guyana
 HND,Honduras,Honduras
 HRV,Croatia,Croatie
 HTI,Haiti,Haïti
@@ -192,7 +192,7 @@ PAN,Panama,Panama
 PER,Peru,Pérou
 PHL,Philippines,Philippines
 PLW,Palau,Palaos
-PNG,Papua New Guinea*,Papouasie-Nouvelle-Guinée*
+PNG,Papua New Guinea,Papouasie-Nouvelle-Guinée
 POL,Poland,Pologne
 PRK,DPRK,RPDC
 PRT,Portugal,Portugal
@@ -211,7 +211,7 @@ SLV,El Salvador,El Salvador
 SMR,San Marino,Saint-Marin
 SOM,Somalia,Somalie
 SRB,Serbia,Serbie
-SSD,South Sudan*,Soudan du Sud*
+SSD,South Sudan,Soudan du Sud
 STP,São Tomé and Príncipe,Sao Tomé-et-Principe
 SUR,Suriname*,Suriname*
 SVK,Slovak Republic,République slovaque
@@ -221,11 +221,11 @@ SWZ,Eswatini,Eswatini
 SYC,Seychelles,Seychelles
 SYR,Syria,Syrie
 TCD,Chad*,Tchad*
-TGO,Togo*,Togo*
+TGO,Togo,Togo
 THA,Thailand,Thaïlande
 TJK,Tajikistan,Tadjikistan
 TKM,Turkmenistan*,Turkménistan*
-TLS,Timor-Leste,Timor-Leste
+TLS,Timor-Leste*,Timor-Leste*
 TON,Tonga,Tonga
 TTO,Trinidad and Tobago*,Trinité-et-Tobago*
 TUN,Tunisia,Tunisie
@@ -244,5 +244,5 @@ VUT,Vanuatu,Vanuatu
 WSM,Samoa,Samoa
 YEM,Yemen*,Yémen*
 ZAF,South Africa,Afrique du Sud
-ZMB,Zambia*,Zambie*
+ZMB,Zambia,Zambie
 ZWE,Zimbabwe,Zimbabwe
