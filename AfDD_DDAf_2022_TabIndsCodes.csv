@@ -62,8 +62,8 @@ AgrEmpPerTot,Employment in agriculture as a % of total,Emploi dans l'agriculture
 IndEmpPerTot,Employment in industry as a % of total,Emploi dans l'industrie en % du total
 SrvEmpPerTot,Employment in services as a % of total,Emploi dans les services en % du total
 ManfEmpPerTot,Employment in manufacturing (incl. in industry) as a % of total,Emploi dans le secteur manufacturier (y compris dans l'industrie) en % du total
-PovHC320,% of population below LMIC poverty rates ($3.20 a day),"% de la population vivant sous 3.20 de dollars US par jour, le seuil de pauvreté des pays à revenu intermédiaire de la tranche inférieure"
-PovHC550,% of population below UMIC poverty rates ($5.50 a day),"% de la population vivant sous 3.20 de dollars US par jour, le seuil de pauvreté des pays à revenu intermédiaire de la tranche supérieure"
+PovHC320,% of population below LMIC poverty rates ($3.20 a day),"% de la population vivant sous 3.20 USD par jour, le seuil de pauvreté des pays à revenu intermédiaire de la tranche inférieure"
+PovHC550,% of population below UMIC poverty rates ($5.50 a day),"% de la population vivant sous 3.20 USD par jour, le seuil de pauvreté des pays à revenu intermédiaire de la tranche supérieure"
 ShareTop20,Income share held by the 20% of the population with highest incomes,Part des revenus détenus par les 20% de la population ayant les revenus les plus élevés (estimation de la Banque mondiale)
 WrkPovRate15PL,"Working poverty rate, both sexes (population 15+)","Taux de pauvreté des travailleurs, les deux sexes (population de 15 ans et plus)"
 WrkPovRateFem15PL,"Working poverty rate, females (population 15+)","Taux de pauvreté des travailleurs, de sexe féminin (population de 15 ans et plus)"
@@ -95,9 +95,9 @@ EmailLrgFm,Percentage of large firms using email to interact with clients/suppli
 EmailMedFm,Percentage of medium-sized firms using email to interact with clients/suppliers,Pourcentage d'entreprises de taille moyenne utilisant le courrier électronique pour interagir avec leurs clients / fournisseurs
 EmailSmlFm,Percentage of small firms using email to interact with clients/suppliers,"Pourcentage de petites entreprises utilisant le courrier électronique pour interagir avec les clients / fournisseurs, mesure la plus récente"
 EmailTotFm,Percentage of firms of all sizes using email to interact with clients/suppliers,Pourcentage d'entreprises de toutes tailles utilisant le courrier électronique pour interagir avec les clients / fournisseurs
-ExpICTSrv,"Total exports of ICT services, millions of USD","Exportations totales de services TIC, millions de dollars US"
+ExpICTSrv,"Total exports of ICT services, millions of USD","Exportations totales de services TIC, millions USD"
 ExpICTSrvPrp,Percentage of total trade in services,Pourcentage du commerce total des services
-ExpDigSrv,"Total exports of digital services, millions of USD","Exportations totales de services numériques, millions de dollars US"
+ExpDigSrv,"Total exports of digital services, millions of USD","Exportations totales de services numériques, millions USD"
 ExpDigSrvPrp,Exports of digital services as a % of total exports,Exportations de services numériques en % des exportations totales
 B2CDevInd,UNCTAD B2C E-commerce Index,Indice du commerce électronique B2C de la CNUCED
 LifeExpTot,Life expectancy at birth (years),Espérance de vie à la naissance (années)
@@ -132,10 +132,10 @@ ExpendPerGDP,General government expenditure as a % of GDP,Total des dépenses des
 GrossDebtPerGDP,General government gross debt as a % of GDP,Dette brute des administrations publiques en % du PIB
 GrossDebtDPerGDP,General government domestic currency gross debt as a % of GDP,Dette brute en monnaie nationale des administrations publiques en % du PIB
 GrossDebtFPerGDP,General government foreign currency gross debt as a % of GDP,Dette brute en devises des administrations publiques en % du PIB
-ExpUnproc,Total exports of unprocessed goods (millions of USD),Exportations totales de produits non transformés (millions de dollars US)
-ExpSemiProc,Total exports of semi-processed goods (millions of USD),Exportations totales de produits semi-transformés (millions de dollars US)
-ExpFullyProc,Total exports of fully processed goods (millions of USD),Total des exportations de produits transformés (millions de dollars US)
-ExpAllProc,Total exports of processed and unprocessed goods (millions of USD),Exportations totales de produits transformés et non transformés (millions de dollars US)
+ExpUnproc,Total exports of unprocessed goods (millions of USD),Exportations totales de produits non transformés (millions USD)
+ExpSemiProc,Total exports of semi-processed goods (millions of USD),Exportations totales de produits semi-transformés (millions USD)
+ExpFullyProc,Total exports of fully processed goods (millions of USD),Total des exportations de produits transformés (millions USD)
+ExpAllProc,Total exports of processed and unprocessed goods (millions of USD),Exportations totales de produits transformés et non transformés (millions USD)
 ImpUnproc,Total imports of unprocessed goods (millions of USD),Importations totales de produits non transformés (millions de dollars US)
 ImpSemiProc,Total imports of semi-processed goods (millions of USD),Importations totales de produits semi-transformés (millions de dollars US)
 ImpFullyProc,Total imports of fully processed goods (millions of USD),Importations totales de produits transformés (millions de dollars US)
@@ -164,23 +164,23 @@ UNCTADFDIPGD,Foreign Direct Investment (FDI) inflows as a % of GDP,Entrées d’inv
 RemitPGD,Remittances inflows as a % of GDP,Entrées de transferts des migrants en % du PIB
 TotalFinInflowsPGD,Total financial inflows as a % of GDP,Entrées financières totales en % du PIB
 GrNatSavPrvPGD,Gross private saving as a % of GDP,Épargne privée brute en % du PIB
-PortfolioInFl,Portfolio investment inflows (millions of USD),Entrées des investissements de portefeuille (millions de dollars US)
-ODA,Net Official Development Assistance (ODA) inflows (millions of USD),Entrées nettes d'aide publique au développement (APD) (millions de dollars US)
-UNCTADFDI,Foreign Direct Investment (FDI) inflows (millions of USD),Entrées d’investissements directs étrangers (IDE) (millions de dollars US)
-Remit,Remittances inflows (millions of USD),Entrées de transferts des migrants (millions de dollars US)
-TotalFinInflows,Total financial inflows (millions of USD),Entrées financières totales (millions de dollars US)
-GrNatSavPrv,Gross private saving (millions of USD),Épargne privée brute (millions de dollars US)
+PortfolioInFl,Portfolio investment inflows (millions of USD),Entrées des investissements de portefeuille (millions USD)
+ODA,Net Official Development Assistance (ODA) inflows (millions of USD),Entrées nettes d'aide publique au développement (APD) (millions USD)
+UNCTADFDI,Foreign Direct Investment (FDI) inflows (millions of USD),Entrées d’investissements directs étrangers (IDE) (millions USD)
+Remit,Remittances inflows (millions of USD),Entrées de transferts des migrants (millions USD)
+TotalFinInflows,Total financial inflows (millions of USD),Entrées financières totales (millions USD)
+GrNatSavPrv,Gross private saving (millions of USD),Épargne privée brute (millions USD)
 CountryArea,Country Area (thousands of ha),Superficie (milliers d'hectares)
 AgricLand,Agricultural land (thousands of ha),Terres agricoles (milliers d'hectares)
 CropLand,Cropland (thousands of ha),Terres cultivées (milliers d'hectares)
 ForestLand,Forest land (thousands of ha),Terres forestières (milliers d'hectares)
 InlndWtrs,Inland waters (thousands of ha),Eaux intérieures (milliers d'hectares)
-AgricProd,Agricultural Production (millions of USD),Production agricole (millions de dollars US)
-CerealProd,Cereal Production (millions of USD),Production céréalière (millions de dollars US)
-CropProd,Crops Production (millions of USD),Production des cultures (millions de dollars US)
-FoodProd,Food Production (millions of USD),Production alimentaire (millions de dollars US)
-LivStkProd,Livestock Production (millions of USD),Production animale (millions de dollars US)
-NFoodProd,Non Food Agricultural Production (millions of USD),Production agricole non alimentaire (millions de dollars US)
+AgricProd,Agricultural Production (millions of USD),Production agricole (millions USD)
+CerealProd,Cereal Production (millions of USD),Production céréalière (millions USD)
+CropProd,Crops Production (millions of USD),Production des cultures (millions USD)
+FoodProd,Food Production (millions of USD),Production alimentaire (millions USD)
+LivStkProd,Livestock Production (millions of USD),Production animale (millions USD)
+NFoodProd,Non Food Agricultural Production (millions of USD),Production agricole non alimentaire (millions USD)
 FoodSupp,Food supply (kcal/capita/day),Approvisionnement alimentaire (kcal / habitant / jour)
 NitUse,Agricultural use of nutrient nitrogen (tonnes),Usage agricole d'azote nutritif (tonnes)
 NitUseArea,Agricultural use of nutrient nitrogen per area of cropland (tonnes/ha),Usage agricole d'azote nutritif par superficie de terres cultivées (tonnes / ha)
@@ -189,33 +189,7 @@ TotAgGHG,Total GHG emissions from agriculture (CO2-equivalent gigagrams),Émissio
 gexp,Gross exports (dc+fc),Exportations brutes (dc + fc)
 gvc,"GVC exports (value of production crossing more than one border, gvcb+gvcf)","Exportations CVM (valeur de la production traversant plus d'une frontière, gvcb + gvcf)"
 gvcb,GVC backward participation (foreign and domestic value in imported inputs that are re-exported),Participation en amont aux CVM (valeur étrangère et nationale des intrants importés réexportés)
-gvcf,GVC forward participation (value of domestic productions re-exported by the bilateral partners),Participation à terme aux CVM (valeur des productions nationales réexportées par les partenaires bilatéraux)
-gvcf01,GVC forward participation - Agriculture,Participation en aval aux CVM - Agriculture
-gvcf02,GVC forward participation - Fishing,Participation en aval aux CVM - Pêche
-gvcf03,GVC forward participation - Mining and Quarrying,Participation en aval aux CVM - Mines et Carrières
-gvcf04,GVC forward participation - Food & Beverages,Participation en aval aux CVM - Alimentation et boissons
-gvcf05,GVC forward participation - Textiles and Wearing Apparel,Participation en aval aux CVM - Textiles et vêtements
-gvcf06,GVC forward participation - Wood and Paper,Participation en aval aux CVM - Bois et papier
-gvcf07,"GVC forward participation - Petroleum, Chemical and Non-Metallic Mineral Products","Participation en aval aux CVM - Produits pétroliers, chimiques et minéraux non métalliques"
-gvcf08,GVC forward participation - Metal Products,Participation en aval aux CVM - Produits métalliques
-gvcf09,GVC forward participation - Electrical and Machinery,Participation en aval aux CVM - Électricité et machinerie
-gvcf10,GVC forward participation - Transport Equipment,Participation en aval aux CVM - Équipement de transport
-gvcf11,GVC forward participation - Other Manufacturing,Participation en aval aux CVM - Autres industries manufacturières
-gvcf12,GVC forward participation - Recycling,Participation en aval aux CVM - Recyclage
-gvcf13,"GVC forward participation - Electricity, Gas and Water","Participation en aval aux CVM - Électricité, gaz et eau"
-gvcf14,GVC forward participation - Construction,Participation en aval aux CVM - Construction
-gvcf15,GVC forward participation - Maintenance and Repair,Participation en aval aux CVM - Maintenance et réparation
-gvcf16,GVC forward participation - Wholesale Trade,Participation en aval aux CVM - Commerce de gros
-gvcf17,GVC forward participation - Retail Trade,Participation en aval aux CVM - Commerce de détail
-gvcf18,GVC forward participation - Hotels and Restaurants,Participation en aval aux CVM - Hôtels et Restaurants
-gvcf19,GVC forward participation - Transport,Participation en aval aux CVM - Transport
-gvcf20,GVC forward participation - Post and Telecommunications,Participation en aval aux CVM - Postes et télécommunications
-gvcf21,GVC forward participation - Financial Intermediation and Business Activities,Participation en aval aux CVM - Intermédiation financière et activités commerciales
-gvcf22,GVC forward participation - Public Administration,Participation en aval aux CVM - Administration publique
-gvcf23,"GVC forward participation - Education, Health and Other Services","Participation en aval aux CVM - Éducation, santé et autres services"
-gvcf24,GVC forward participation - Private Households,Participation en aval aux CVM - Ménages privés
-gvcf25,GVC forward participation - Others,Participation en aval aux CVM - Autres
-gvcf26,GVC forward participation - Re-export & Re-import,Participation en aval aux CVM - réexportation et réimportation
+gvcf,GVC forward participation (value of domestic productions re-exported by the bilateral partners),Participation en aval aux CVM (valeur des productions nationales réexportées par les partenaires bilatéraux)
 gvcb01,GVC backward participation - Agriculture,Participation en amont aux CVM - Agriculture
 gvcb02,GVC backward participation - Fishing,Participation en amont aux CVM - Pêche
 gvcb03,GVC backward participation - Mining and Quarrying,Participation en amont aux CVM - Mines et carrières
@@ -242,6 +216,32 @@ gvcb23,"GVC backward participation - Education, Health and Other Services","Part
 gvcb24,GVC backward participation - Private Households,Participation en amont aux CVM - Ménages privés
 gvcb25,GVC backward participation - Others,Participation en amont aux CVM - Autres
 gvcb26,GVC backward participation - Re-export & Re-import,Participation en amont aux CVM - réexportation et réimportation
+gvcf01,GVC forward participation - Agriculture,Participation en aval aux CVM - Agriculture
+gvcf02,GVC forward participation - Fishing,Participation en aval aux CVM - Pêche
+gvcf03,GVC forward participation - Mining and Quarrying,Participation en aval aux CVM - Mines et Carrières
+gvcf04,GVC forward participation - Food & Beverages,Participation en aval aux CVM - Alimentation et boissons
+gvcf05,GVC forward participation - Textiles and Wearing Apparel,Participation en aval aux CVM - Textiles et vêtements
+gvcf06,GVC forward participation - Wood and Paper,Participation en aval aux CVM - Bois et papier
+gvcf07,"GVC forward participation - Petroleum, Chemical and Non-Metallic Mineral Products","Participation en aval aux CVM - Produits pétroliers, chimiques et minéraux non métalliques"
+gvcf08,GVC forward participation - Metal Products,Participation en aval aux CVM - Produits métalliques
+gvcf09,GVC forward participation - Electrical and Machinery,Participation en aval aux CVM - Électricité et machinerie
+gvcf10,GVC forward participation - Transport Equipment,Participation en aval aux CVM - Équipement de transport
+gvcf11,GVC forward participation - Other Manufacturing,Participation en aval aux CVM - Autres industries manufacturières
+gvcf12,GVC forward participation - Recycling,Participation en aval aux CVM - Recyclage
+gvcf13,"GVC forward participation - Electricity, Gas and Water","Participation en aval aux CVM - Électricité, gaz et eau"
+gvcf14,GVC forward participation - Construction,Participation en aval aux CVM - Construction
+gvcf15,GVC forward participation - Maintenance and Repair,Participation en aval aux CVM - Maintenance et réparation
+gvcf16,GVC forward participation - Wholesale Trade,Participation en aval aux CVM - Commerce de gros
+gvcf17,GVC forward participation - Retail Trade,Participation en aval aux CVM - Commerce de détail
+gvcf18,GVC forward participation - Hotels and Restaurants,Participation en aval aux CVM - Hôtels et Restaurants
+gvcf19,GVC forward participation - Transport,Participation en aval aux CVM - Transport
+gvcf20,GVC forward participation - Post and Telecommunications,Participation en aval aux CVM - Postes et télécommunications
+gvcf21,GVC forward participation - Financial Intermediation and Business Activities,Participation en aval aux CVM - Intermédiation financière et activités commerciales
+gvcf22,GVC forward participation - Public Administration,Participation en aval aux CVM - Administration publique
+gvcf23,"GVC forward participation - Education, Health and Other Services","Participation en aval aux CVM - Éducation, santé et autres services"
+gvcf24,GVC forward participation - Private Households,Participation en aval aux CVM - Ménages privés
+gvcf25,GVC forward participation - Others,Participation en aval aux CVM - Autres
+gvcf26,GVC forward participation - Re-export & Re-import,Participation en aval aux CVM - réexportation et réimportation
 VASameCtry,Total value of national exports originating domestically (millions of USD),Valeur totale des exportations nationales originaires du pays (millions d'USD)
 BkwdVA,Total foreign added value embedded in national exports (millions of USD),Valeur ajoutée étrangère totale intégrée dans les exportations nationales (millions d'USD)
 BkwdVABordCtry,Total added value from neighbouring countries embedded in national exports (millions of USD),Valeur ajoutée totale des pays voisins intégrée dans les exportations nationales (millions d'USD)
@@ -270,12 +270,12 @@ TrdCstDCont,"Average cost of trade within continent as % of merchandise value, m
 TrdCstDWLD,"Average cost of trade with all countries as % of merchandise value, manufactured goods","Coût moyen du commerce avec tous les pays en % de la valeur des marchandises, produits manufacturés"
 TrdCstDInternal,"Average cost of trade within country group as % of merchandise value, manufactured goods","Coût moyen du commerce au sein du groupe de pays en % de la valeur des marchandises, produits manufacturés"
 TrdCstDExternal,"Average cost of trade with countries outside the country group as % of merchandise value, manufactured goods","Coût moyen du commerce avec les pays hors du groupe de pays en % de la valeur des marchandises, produits manufacturés"
-TrdCstABBord,"Average cost of trade with bordering countries as % of merchandise value, manufactured goods","Coût moyen du commerce avec les pays limitrophes en % de la valeur des marchandises, produits manufacturés"
-TrdCstABAUCReg,"Average cost of trade within the same AU region as % of merchandise value, manufactured goods","Coût moyen du commerce au sein de la même région de l'UA en % de la valeur des marchandises, produits manufacturés"
-TrdCstABCont,"Average cost of trade within continent as % of merchandise value, manufactured goods","Coût moyen du commerce à l'intérieur du continent en % de la valeur des marchandises, produits manufacturés"
-TrdCstABWLD,"Average cost of trade with all countries as % of merchandise value, manufactured goods","Coût moyen du commerce avec tous les pays en % de la valeur des marchandises, produits manufacturés"
-TrdCstABInternal,"Average cost of trade within country group as % of merchandise value, manufactured goods","Coût moyen du commerce au sein du groupe de pays en % de la valeur des marchandises, produits manufacturés"
-TrdCstABExternal,"Average cost of trade with countries outside the country group as % of merchandise value, manufactured goods","Coût moyen du commerce avec les pays hors du groupe de pays en % de la valeur des marchandises, produits manufacturés"
+TrdCstABBord,"Average cost of trade with bordering countries as % of merchandise value, primary goods","Coût moyen du commerce avec les pays limitrophes en % de la valeur des marchandises, produits primaires"
+TrdCstABAUCReg,"Average cost of trade within the same AU region as % of merchandise value, primary goods","Coût moyen du commerce au sein de la même région de l'UA en % de la valeur des marchandises, produits primaires"
+TrdCstABCont,"Average cost of trade within continent as % of merchandise value, primary goods","Coût moyen du commerce à l'intérieur du continent en % de la valeur des marchandises, produits primaires"
+TrdCstABWLD,"Average cost of trade with all countries as % of merchandise value, primary goods","Coût moyen du commerce avec tous les pays en % de la valeur des marchandises, produits primaires"
+TrdCstABInternal,"Average cost of trade within country group as % of merchandise value, primary goods","Coût moyen du commerce au sein du groupe de pays en % de la valeur des marchandises, produits primaires"
+TrdCstABExternal,"Average cost of trade with countries outside the country group as % of merchandise value, primary goods","Coût moyen du commerce avec les pays hors du groupe de pays en % de la valeur des marchandises, produits primaires"
 ISO9001,Number of ISO 9001 quality management systems certificates,Nombre de certificats de systèmes de management de la qualité ISO 9001
 ISO14001,Number of ISO 14001 environmental management systems certificates,Nombre de certificats de systèmes de management environnemental ISO 14001
 ISO50001,Number of ISO 50001 energy management systems certificates,Nombre de certificats ISO 50001 de systèmes de management de l'énergie
