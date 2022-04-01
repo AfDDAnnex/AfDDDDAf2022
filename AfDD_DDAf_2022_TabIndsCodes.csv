@@ -114,13 +114,12 @@ PositiveAffect,Positive affect,Affect positif
 FreedomLife,Freedom to make life choices,Liberté de faire des choix de vie
 Generosity,Generosity,Générosité
 SocialSupp,Social support,Soutien sociale
-GrthDCmpNCP,"Consumption, private (% of GDP growth)",Consommation privée (% de croissance du PIB)
-GrthDCmpNCG,"Consumption, public (% of GDP growth)",Consommation publique (% de croissance du PIB)
-GrthDCmpNFIP,"Gross fixed capital formation, private (% of GDP growth)","Formation brute de capital fixe, privé (% de croissance du PIB)"
-GrthDCmpNFIG,"Gross fixed capital formation, public (% of GDP growth)",Formation brute de capital fixe publique (% de croissance du PIB)
-GrthDCmpNX,"Exports of goods and services, current prices (% of GDP growth)","Exportations des biens et services, prix courants (% de croissance du PIB)"
-GrthDCmpNM,"Imports of goods and services, current prices (% of GDP growth)","Importations de biens et services, prix courants (% de croissance du PIB)"
-GrthDCmpNFB,"Foreign balance, current prices (% of GDP growth)","Balance extérieure, prix courants (% de croissance du PIB)"
+GrthDCmpNC,Final consumption expenditure (% of GDP growth),Dépense de consommation finale (% de croissance du PIB)
+GrthDCmpNFI,Gross fixed capital formation (% of GDP growth),Formation brute de capital fixe (% de croissance du PIB)
+GrthDCmpNINV,Changes in inventories (% of GDP growth),Variations des stocks (% de croissance du PIB)
+GrthDCmpNX,Exports of goods and services (% of GDP growth),Exportations de biens et services (% de croissance du PIB)
+GrthDCmpNM,Imports of goods and services (% of GDP growth),Importations de biens et services (% de croissance du PIB)
+GrthDCmpNFB,Foreign balance (% of GDP growth),Balance extérieure (% de croissance du PIB)
 GovRevPerGDP,General government revenue as a % of GDP,Recettes des administrations publiques en % du PIB
 TaxPerGDP,General government taxes as a % of GDP,Impôts des administrations publiques en % du PIB
 GrantsPerGDP,"General government revenue, grants as a % of GDP","Recettes des administrations publiques, dons en % du PIB"
