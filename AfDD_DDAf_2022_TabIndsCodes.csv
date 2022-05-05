@@ -114,31 +114,40 @@ PositiveAffect,Positive affect,Affect positif
 FreedomLife,Freedom to make life choices,Liberté de faire des choix de vie
 Generosity,Generosity,Générosité
 SocialSupp,Social support,Soutien sociale
+CnsExp,Final consumption expenditure (% of GDP),Dépense de consommation finale
+CnsExpPub,"Final consumption expenditure (public, % of GDP)",Dépense de consommation finale (publique)
+CnsExpPrv,"Final consumption expenditure (private, % of GDP)",Dépense de consommation finale (privée)
+GFCF,Gross fixed capital formation (% of GDP),Formation brute de capital fixe
+GFCFPub,"Gross fixed capital formation (public, % of GDP)",Formation brute de capital fixe (public)
+GFCFPrv,"Gross fixed capital formation (private, % of GDP)",Formation brute de capital fixe (privé)
+InvChg,Changes in inventories (% of GDP),Variations des stocks
+FrgnBal,Foreign balance (% of GDP),Balance extérieur
+ImpGdsSrv,Imports of goods and services (% of GDP),Importations de biens et services
+ExpGdsSrv,Exports of goods and services (% of GDP),Exportations de biens et services
 GrthDCmpNC,Final consumption expenditure (% of GDP growth),Dépense de consommation finale (% de croissance du PIB)
 GrthDCmpNFI,Gross fixed capital formation (% of GDP growth),Formation brute de capital fixe (% de croissance du PIB)
 GrthDCmpNINV,Changes in inventories (% of GDP growth),Variations des stocks (% de croissance du PIB)
-GrthDCmpNX,Exports of goods and services (% of GDP growth),Exportations de biens et services (% de croissance du PIB)
 GrthDCmpNM,Imports of goods and services (% of GDP growth),Importations de biens et services (% de croissance du PIB)
+GrthDCmpNX,Exports of goods and services (% of GDP growth),Exportations de biens et services (% de croissance du PIB)
 GrthDCmpNFB,Foreign balance (% of GDP growth),Balance extérieure (% de croissance du PIB)
 GovRevPerGDP,General government revenue as a % of GDP,Recettes des administrations publiques en % du PIB
 TaxPerGDP,General government taxes as a % of GDP,Impôts des administrations publiques en % du PIB
 GrantsPerGDP,"General government revenue, grants as a % of GDP","Recettes des administrations publiques, dons en % du PIB"
-CommodityPerGDP,General government commodity-related revenues as a % of GDP,Recettes des administrations publiques liées aux produits de base en % du PIB
-TaxIncPerGDP,"General government taxes on income, profits, and capital gains as a % of GDP","Impôts des administrations publiques sur revenus, bénéfices et gains en capital en % du PIB"
-TaxGdsSrvPerGDP,General government taxes on goods and services as a % of GDP,Impôts des administrations publiques sur les biens et services en % du PIB
-TaxTradePerGDP,General government taxes on international trade and transactions as a % of GDP,Impôts des administrations publiques sur les échanges internationaux en % du PIB
 ExpendPerGDP,General government expenditure as a % of GDP,Total des dépenses des administrations publiques en % du PIB
 GrossDebtPerGDP,General government gross debt as a % of GDP,Dette brute des administrations publiques en % du PIB
-GrossDebtDPerGDP,General government domestic currency gross debt as a % of GDP,Dette brute en monnaie nationale des administrations publiques en % du PIB
-GrossDebtFPerGDP,General government foreign currency gross debt as a % of GDP,Dette brute en devises des administrations publiques en % du PIB
 ExpUnproc,Total exports of unprocessed goods (millions of USD),Exportations totales de produits non transformés (millions USD)
 ExpSemiProc,Total exports of semi-processed goods (millions of USD),Exportations totales de produits semi-transformés (millions USD)
-ExpFullyProc,Total exports of fully processed goods (millions of USD),Total des exportations de produits transformés (millions USD)
+ExpFullyProc,Total exports of fully processed goods (millions of USD),Exportations totales de produits transformés (millions USD)
 ExpAllProc,Total exports of processed and unprocessed goods (millions of USD),Exportations totales de produits transformés et non transformés (millions USD)
 ImpUnproc,Total imports of unprocessed goods (millions of USD),Importations totales de produits non transformés (millions de dollars US)
 ImpSemiProc,Total imports of semi-processed goods (millions of USD),Importations totales de produits semi-transformés (millions de dollars US)
 ImpFullyProc,Total imports of fully processed goods (millions of USD),Importations totales de produits transformés (millions de dollars US)
 ImpAllProc,Total imports of processed and unprocessed goods (millions of USD),Importations totales de produits transformés et non transformés (millions de dollars US)
+ExpProd1,Product category among 4-digit HS96 classification accounting for the highest share of total value of exports.,Catégorie de produits avec la plus grande part des exportations totales
+ExpProd2,Product category among 4-digit HS96 classification accounting for the second highest share of total value of exports.,Catégorie de produits constituant la deuxième plus grande % des exportations totales
+ExpProd3,Product category among 4-digit HS96 classification accounting for the third highest share of total value of exports.,Catégorie de produits constituant la troisième plus grande % des exportations totales
+ExpProd4,Product category among 4-digit HS96 classification accounting for the fourth highest share of total value of exports.,Catégorie de produits constituant la quatrième plus grande % des exportations totales
+ExpProd5,Product category among 4-digit HS96 classification accounting for the fifth highest share of total value of exports.,Catégorie de produits constituant la cinquième plus grande % des exportations totales
 ExpProdPct1,% of exports ascribed to 4-digit HS96 product category with highest level of exports,% des exportations attribuées à la catégorie de produits SH96 à 4 chiffres avec le plus haut niveau d'exportations
 ExpProdPct2,% of exports ascribed to 4-digit HS96 product category with the second highest level of exports,% des exportations attribuées à la catégorie de produits SH96 à 4 chiffres avec le deuxième niveau d'exportations le plus élevé
 ExpProdPct3,% of exports ascribed to 4-digit HS96 product category with the third highest level of exports,% des exportations attribuées à la catégorie de produits SH96 à 4 chiffres avec le troisième niveau d'exportations le plus élevé
@@ -147,7 +156,6 @@ ExpProdPct5,% of exports ascribed to 4-digit HS96 product category with the fift
 NumPrdU75,Number of products amounting to 75% of total exports,Nombre de produits exportés représentant 75% des exportations totales
 NumPrdU90,Number of products amounting to 90% of total exports,Nombre de produits exportés représentant 90% des exportations totales
 TotExpPerGDP,Value of total exports of goods and services as a % of GDP,Valeur totale des exportations de biens et services en % du PIB
-HHIProd,Herfindahl-Hirschmann Concentration Index of export products,Indice de concentration Herfindahl-Hirschmann des produits d'exportation
 RECExpPct,"Exports to countries in same REC, as a % of total Exports","Exportations vers les pays de la même CER, en % du total des exportations"
 AUCRegExpPct,"Exports to countries in same AUC Region, as a % of total Exports","Exportations vers les pays de la même région de la CUA, en % du total des exportations"
 ContExpPct,"Exports to countries in same continent, as a % of total Exports","Exportations vers les pays du même continent, en % du total des exportations"
