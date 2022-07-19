@@ -156,12 +156,18 @@ ExpProdPct5,% of exports ascribed to 4-digit HS96 product category with the fift
 NumPrdU75,Number of products amounting to 75% of total exports,Nombre de produits exportés représentant 75% des exportations totales
 NumPrdU90,Number of products amounting to 90% of total exports,Nombre de produits exportés représentant 90% des exportations totales
 TotExpPerGDP,Value of total exports of goods and services as a % of GDP,Valeur totale des exportations de biens et services en % du PIB
-RECExpPct,"Exports to countries in same REC, as a % of total Exports","Exportations vers les pays de la même CER, en % du total des exportations"
-AUCRegExpPct,"Exports to countries in same AUC Region, as a % of total Exports","Exportations vers les pays de la même région de la CUA, en % du total des exportations"
-ContExpPct,"Exports to countries in same continent, as a % of total Exports","Exportations vers les pays du même continent, en % du total des exportations"
-CHNExpPct,"Exports to China, as a % of total Exports","Exportations vers la Chine, en % du total des exportations"
-EUExpPct,"Exports to EU countries, as a % of total Exports","Exportations vers les pays de l'UE, en % du total des exportations"
-USAExpPct,"Exports to USA, as a % of total Exports","Exportations vers les États-Unis, en % du total des exportations"
+RECExpPct,"Exports to countries in same REC, as a % of total exports","Exportations vers les pays de la même CER, en % du total des exportations"
+AUCRegExpPct,"Exports to countries in same AUC Region, as a % of total exports","Exportations vers les pays de la même région de la CUA, en % du total des exportations"
+ContExpPct,"Exports to countries in same continent, as a % of total exports","Exportations vers les pays du même continent, en % du total des exportations"
+CHNExpPct,"Exports to China, as a % of total exports","Exportations vers la Chine, en % du total des exportations"
+EUExpPct,"Exports to EU countries, as a % of total exports","Exportations vers les pays de l'UE, en % du total des exportations"
+USAExpPct,"Exports to USA, as a % of total exports","Exportations vers les États-Unis, en % du total des exportations"
+RECImpPct,"Imports to countries in same REC, as a % of total imports","Importations provenant des pays de la même CER, en % du total des importations"
+AUCRegImpPct,"Imports to countries in same AUC Region, as a % of total imports","Importations provenant des pays de la même région de la CUA, en % du total des importations"
+ContImpPct,"Imports to countries in same continent, as a % of total imports","Importations provenant des pays du même continent, en % du total des importations"
+CHNImpPct,"Imports to China, as a % of total imports","Importations provenant de la Chine, en % du total des importations"
+EUImpPct,"Imports to EU countries, as a % of total imports","Importations provenant des pays de l'UE, en % du total des importations"
+USAImpPct,"Imports to USA, as a % of total imports","Importations provenant des États-Unis, en % du total des importations"
 IntraCont,Intra-continental trade in intermediate goods (millions of USD),Commerce intra-continental de biens intermédiaires (millions de dollars US)
 ExtraCont,Extra-continental trade in intermediate goods (millions of USD),Commerce extra-continental de biens intermédiaires (millions de dollars US)
 PercIntra,Intra-continental trade in intermediate goods as a % of all trade in intermediate goods,Commerce intra-continental de biens intermédiaires en % du total des échanges de biens intermédiaires
